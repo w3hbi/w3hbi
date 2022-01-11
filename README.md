@@ -1,6 +1,6 @@
 ## Hi there 👋, This is W3HBI
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mouhamedwahbi.yaakoub@gmail.com)](mailto:mouhamedwahbi.yaakoub@gmail.com) 
+<strong>Contacts : </strong>[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mouhamedwahbi.yaakoub@gmail.com)](mailto:mouhamedwahbi.yaakoub@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouhamed-wahbi-yaakoub/)](https://www.linkedin.com/in/mouhamed-wahbi-yaakoub/) 
 [![Github Badge](https://img.shields.io/badge/-Github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/w3hbi/)](https://www.github.com/w3hbi/) 
  
