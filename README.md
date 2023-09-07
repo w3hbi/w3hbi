@@ -1,6 +1,8 @@
 # 👋 Introduction
 
-![Freelance](https://img.shields.io/badge/status-up-brightgreen)
+![Freelance](https://img.shields.io/badge/Freelance-open-brightgreen.svg) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/w3hbi) ![GitHub Follow](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)
+
+
 
 Hello guys, I'm **Mohamed Wahbi Yaakoub**. I am a Data Engineer & Python developer from Tunisia 🇹🇳. I'm a passionate and results-driven Data Engineer with a strong background in designing, building, and maintaining data pipelines to empower data-driven decision-making. My mission is to harness the power of data to drive business success and innovation. I believe that data is not just information; it's a valuable asset waiting to be unlocked.
 
