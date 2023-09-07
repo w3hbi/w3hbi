@@ -1,16 +1,12 @@
-## Hi there 👋, This is W3HBI
+# 👋 Introduction
 
-<strong>Contacts : </strong>[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mouhamedwahbi.yaakoub@gmail.com)](mailto:mouhamedwahbi.yaakoub@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouhamed-wahbi-yaakoub/)](https://www.linkedin.com/in/mouhamed-wahbi-yaakoub/) 
-[![Github Badge](https://img.shields.io/badge/-Github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/w3hbi/)](https://www.github.com/w3hbi/) 
- 
-### About Me :
-I am on my last steps to get my diploma in Polytechnics Engineering School of Sousse in Computer Engineering with different development skills
+![Freelance](https://img.shields.io/badge/status-up-brightgreen)
 
-I am so confident that my skills-set which includes competitive edge, attention to detail, passion and ambition. It will largely contribute in achieving my career goals.
+Hello guys, I'm **Mohamed Wahbi Yaakoub**. I am a Data Engineer & Python developer from Tunisia 🇹🇳. I'm a passionate and results-driven Data Engineer with a strong background in designing, building, and maintaining data pipelines to empower data-driven decision-making. My mission is to harness the power of data to drive business success and innovation. I believe that data is not just information; it's a valuable asset waiting to be unlocked.
 
-<p align='center'><strong>
-"Keep away from those who try to belittle your ambitions. Small people always do that, but the really great make you believe that you too can become great." ___ Mark TWAIN</strong>
-</p>
+# Quote of the Day
+"Torture the data, and it will confess to anything." __ **Ronald Coase**
 
-### Technologies & Frameworks :
+Welcome to my GitHub profile, where I seek the truth in data, one line of code at a time. Here, we don't just analyze data; we interrogate it, revealing its deepest secrets and hidden insights. Join me in the pursuit of uncovering the stories data holds.
+
+Let's turn data confessions into actionable knowledge. 🕵️‍♂️💼📈
