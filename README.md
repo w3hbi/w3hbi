@@ -11,7 +11,7 @@ Welcome to my GitHub profile, where I seek the truth in data, one line of code a
 
 Let's turn data confessions into actionable knowledge. 🕵️‍♂️💼📈
 
-## 💻 Open Source Work Stats
+# 💻 Open Source Work Stats
 
 ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=w3hbi&show_icons=true)
 
