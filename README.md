@@ -23,6 +23,7 @@ Let's turn data confessions into actionable knowledge. 🕵️‍♂️💼📈
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3hbi&layout=compact&theme=dark" alt="Top Langs" />
   </a>
 </p>
+
 # 🔗 Let's Connect
 I'm always open to networking and collaborating on exciting data projects. Whether you have questions, want to discuss data engineering strategies, or explore potential collaborations, feel free to reach out to me:
 
