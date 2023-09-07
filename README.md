@@ -2,7 +2,7 @@
 
 <img align='right' src='https://github.com/w3hbi/w3hbi/blob/main/images/octocat-anime.gif' width='150'>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/YaakoubWahbi?style=social)](https://twitter.com/intent/follow?screen_name=YaakoubWahbi)  ![Freelance](https://img.shields.io/badge/Freelance-open-brightgreen.svg) ![Visitors](https://visitor-badge.lithub.cc/badge?page_id=github.com/w3hbi) ![GitHub Follow](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/YaakoubWahbi?style=social)](https://twitter.com/intent/follow?screen_name=YaakoubWahbi)  ![Freelance](https://img.shields.io/badge/Freelance-open-brightgreen.svg) ![Visitors](https://visitor-badge.lithub.cc/badge?page_id=github.com/w3hbi) ![GitHub Follow](https://img.shields.io/github/followers/w3hbi?label=Follow&style=social)
 
 Hello guys, I'm **Mohamed Wahbi Yaakoub**. I am a Data Engineer & Python developer from Tunisia 🇹🇳. I'm a passionate and results-driven Data Engineer with a strong background in designing, building, and maintaining data pipelines to empower data-driven decision-making. My mission is to harness the power of data to drive business success and innovation. I believe that data is not just information; it's a valuable asset waiting to be unlocked.
 
