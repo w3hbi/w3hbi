@@ -6,6 +6,8 @@
 
 Hello guys, I'm **Mohamed Wahbi Yaakoub**. I am a Data Engineer & Python developer from Tunisia 🇹🇳. I'm a passionate and results-driven Data Engineer with a strong background in designing, building, and maintaining data pipelines to empower data-driven decision-making. My mission is to harness the power of data to drive business success and innovation. I believe that data is not just information; it's a valuable asset waiting to be unlocked.
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mouhamed-wahbi-yaakoub" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/mouhamed-wahbi-yaakoub?trk=profile-badge">Mouhamed Wahbi Yaakoub</a></div>
+
 # 📃 Quote of the Day
 "Torture the data, and it will confess to anything." __ **Ronald Coase**
 
